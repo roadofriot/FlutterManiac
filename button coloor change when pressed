@@ -1,0 +1,6 @@
+ RaisedButton(
+          onPressed: () {},
+          child: Text("Test"),
+          highlightColor: YOUR_PRESSED_COLOR, //Replace with actual colors
+          color: IDLE_STATE_COLOR,
+        ),
